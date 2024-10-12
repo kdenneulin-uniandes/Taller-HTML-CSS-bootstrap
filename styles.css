@@ -1,0 +1,21 @@
+
+h1 {
+    color: rgb(0, 89, 255);
+    text-align: middle;
+    font-size: 700%;
+}
+
+h2 {
+    text-align: middle;
+}
+
+ol {
+    color: purple; 
+    text-align: left;
+    font-family: times;
+}
+
+.max-width-image {
+    max-width: 40%; 
+    height: auto; 
+}
